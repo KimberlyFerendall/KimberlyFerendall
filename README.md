@@ -12,7 +12,7 @@
 - **Other Tools**: Git, Jupyter Notebook, Excel
   
   📫 **How to reach me**:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kimberly-fernandez-rendall)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-fernandez-rendall/)
 - Email: Kimberly22fernandez@gmail.com
   
   😄 Pronouns: she/her
