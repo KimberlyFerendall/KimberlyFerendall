@@ -1,6 +1,9 @@
 👋 Hi, I’m Kimberly Fernández Rendall!
+
 👀 I’m interested in Data Analysis
+
 🌱 I’m currently exploring new ways to extract insights from data by learning Machine Learning
+
 💞️ I’m looking to collaborate on entry-level opportunities
 
 🛠️ Skills  
